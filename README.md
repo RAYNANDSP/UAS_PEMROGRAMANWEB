@@ -1,11 +1,11 @@
-# Meitiasandra/191011401176_SANDRA-MEITIA_UAS-PEM.WEB
+# Meitiasandra/191011401096_RAYNAND-SAKTI-PRAKOSO_UAS-PEM.WEB
 
 link Hosting : http://pemrorizki.infinityfreeapp.com/ di hostinhg oleh rizki setiawan,
 
 username rizki , sandi 123
 
 nama kelompok :
-Raynan sakti, 
+Raynand sakti, 
 Rizki Setiawan,
 Roby Maulana,
 Sandra Meitia,
@@ -29,7 +29,7 @@ koneksi.php digunakan untuk mengkoneksikan ke database
 
 logout.php digunakan untuk mendestroy atau keluar dari halaman input dan kembali harus login unutk mengakses halaman input kembali 
 
-show.php digunakan unutk melihat halaman data pemesanan yang telah di submit dibuat oleh Sandra Meitia
+show.php digunakan unutk melihat halaman data pemesanan yang telah di submit dibuat oleh Raynand Sakti Prakoso
 
-priviewDocument.php digunakan untuk mencetak report pdf dibuat oleh Sandra Meitia
+priviewDocument.php digunakan untuk mencetak report pdf dibuat oleh Raynand Sakti Prakoso
 
